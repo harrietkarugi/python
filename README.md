@@ -15,6 +15,6 @@ my_list.sort()
 
 index_of_30 = my_list.index(30)
 
-print("Sorted list:", my_list)
-print("Index of 30:", index_of_30)
+print(my_list)
+print(index_of_30)
 
