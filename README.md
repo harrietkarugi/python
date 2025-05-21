@@ -18,3 +18,4 @@ index_of_30 = my_list.index(30)
 print(my_list)
 print(index_of_30)
 
+
